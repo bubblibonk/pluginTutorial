@@ -1,0 +1,5 @@
+name: Plug
+version: 1.0
+author: bonk
+main: me.bonk.plug.Plug
+api-version: 1.14
